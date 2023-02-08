@@ -1,11 +1,14 @@
-## Intro
-
 *Note: Please feel free to promote yourself, your project, your group, and your ideas. What else would be worth promoting? If something doesn't work out, it's all good. We will work to figure out a best path forward*
 
-**Name**
-**Organization**
-**Title**
-**Specialty**
+## Intro
+
+```
+Name:
+Organization:
+Title:
+Contact Info: 
+Specialty:
+```
 
 *A bit about you and your organization*
 
@@ -37,3 +40,7 @@
 *Example:*
 *Want feedback on the current state of the product, including usability and relationship to competition*
 *Want contributions from the community. What are people interested to contribute to, and what incentive structure would help them decide to contribute more?*
+
+## Further information
+
+*Anything important that is not included in the sections above. Including links and forms*
