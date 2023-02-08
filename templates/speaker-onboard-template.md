@@ -2,11 +2,11 @@
 
 *Note: Please feel free to promote yourself, your project, your group, and your ideas. What else would be worth promoting? If something doesn't work out, it's all good. We will work to figure out a best path forward*
 
-**Name**
-**Organization**
-**Title**
-**Contact Info**
-**Specialty**
+|**Name**| |
+|**Organization**| |
+|**Title**| |
+| **Contact Info**| |
+|**Specialty**| |
 
 *A bit about you and your organization*
 
