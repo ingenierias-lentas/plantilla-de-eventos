@@ -1,9 +1,9 @@
 ## Intro
 
----
-Title
-Tagline
----
+```
+Title:
+Tagline:
+```
 
 ## Accessibility
 
