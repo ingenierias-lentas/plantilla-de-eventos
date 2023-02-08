@@ -1,6 +1,9 @@
 ## Intro
 
-*Brief tagline statement about the event*
+---
+Title
+Tagline
+---
 
 ## Accessibility
 
