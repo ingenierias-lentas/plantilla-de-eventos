@@ -1,10 +1,12 @@
 ## Intro
 
-**Name**
-**Organization**
-**Event Date**
-**Event Location**
-**Contact Info**
+```
+Name
+Organization
+Event Date
+Event Location
+Contact Info
+```
 
 ## Prior goals
 
