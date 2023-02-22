@@ -2,6 +2,11 @@
 
 *Brief tagline statement about the event*
 
+```
+Title:
+Tagline:
+```
+
 ## Accessibility
 
 *Info about how to arrive*
