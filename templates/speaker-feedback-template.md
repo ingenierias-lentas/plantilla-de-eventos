@@ -1,11 +1,13 @@
 ## Intro
 
-**Name**
-**Organization**
-**Presentation Title(s)**
-**Event Date**
-**Event Location**
-**Contact Info**
+```
+Name
+Organization
+Presentation Title(s)
+Event Date
+Event Location
+Contact Info
+```
 
 ## Feedback
 
