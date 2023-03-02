@@ -8,6 +8,7 @@ Organization:
 Title:
 Contact Info: 
 Specialty:
+Event Location
 ```
 
 *A bit about you and your organization*
