@@ -8,7 +8,7 @@ Organization:
 Title:
 Contact Info: 
 Specialty:
-Event Location
+Event Location:
 ```
 
 *A bit about you and your organization*
@@ -19,7 +19,7 @@ Event Location
 
 ## Agenda
 
-*What is the agenda of this discussion*
+*What is the agenda of this discussion?*
 
 ### Topic
 
