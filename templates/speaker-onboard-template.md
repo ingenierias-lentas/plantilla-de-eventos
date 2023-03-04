@@ -20,7 +20,7 @@ Speaker Session Type: Presentation | Panel
 
 ## Agenda
 
-*What is the agenda of this discussion*
+*What is the agenda of this discussion?*
 
 ### Topic
 
