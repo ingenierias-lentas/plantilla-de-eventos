@@ -5,10 +5,11 @@
 ```
 Name:
 Organization:
-Title:
+Role/Title:
 Contact Info: 
 Specialty:
 Event Location:
+Speaker Session Type: Presentation | Panel
 ```
 
 *A bit about you and your organization*
