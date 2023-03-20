@@ -11,16 +11,16 @@ Contact Info:
 
 ## Feedback
 
-*Add general feedback here*
+*What was the goal of the presentation?*
 
 *Were you able to get your message across?*
 
-*Were you able to reach your KPIs, both semantic and metricized?*
+*Were you able to reach your KPIs, both sentimental and metricized?*
 
 *What are some areas for improvement?*
-
-## Audience Feedback
 
 *How did the audience engage with your presentation?*
 
 *What questions were asked about the presentation?*
+
+*Anything else?*
